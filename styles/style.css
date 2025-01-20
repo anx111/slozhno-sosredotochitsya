@@ -336,7 +336,6 @@
     }
 
     .footer {
-        min-block-size: 1024px;
         padding: var(--gap-l);
     }
 
@@ -381,9 +380,5 @@
 
     .section__how {
         column-gap: var(--gap-s);
-    }
-
-    .footer {
-        min-block-size: 768px;
     }
 }
